@@ -5,16 +5,112 @@
       "PackagePath": "staticwebassets\\yemekSitesi.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
