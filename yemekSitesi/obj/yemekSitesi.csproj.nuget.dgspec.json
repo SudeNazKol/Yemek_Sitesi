@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj": {}
+    "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj": {
+    "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj",
+        "projectUniqueName": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj",
         "projectName": "yemekSitesi",
-        "projectPath": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\",
+        "projectPath": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\yemekSitesi.csproj",
+        "packagesPath": "C:\\Users\\ilayd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ilayd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,6 +59,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
