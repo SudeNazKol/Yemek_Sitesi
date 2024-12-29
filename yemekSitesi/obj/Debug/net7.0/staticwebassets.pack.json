@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\yemekSitesi.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\booking.html",
+      "PackagePath": "staticwebassets\\booking.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -107,6 +119,10 @@
     {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
       "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
@@ -443,6 +459,22 @@
     {
       "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\menu.html",
+      "PackagePath": "staticwebassets\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\service.html",
+      "PackagePath": "staticwebassets\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\team.html",
+      "PackagePath": "staticwebassets\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Documents\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.yemekSitesi.props",

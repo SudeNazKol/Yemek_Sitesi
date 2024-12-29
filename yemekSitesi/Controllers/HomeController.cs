@@ -17,8 +17,9 @@ public class HomeController : Controller
     {
         return View();
     }
+    [Route("/tarifler")]
 
-    public IActionResult Privacy()
+    public IActionResult Tarifler()
     {
         return View();
     }
