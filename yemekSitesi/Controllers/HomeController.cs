@@ -17,12 +17,26 @@ public class HomeController : Controller
     {
         return View();
     }
-    [Route("/tarifler")]
 
+    [Route("/tarifler")]
     public IActionResult Tarifler()
     {
         return View();
     }
+
+    [Route("/iletisim")]
+    public IActionResult Iletisim()
+    {
+        return View();
+    }
+
+    [Route("/TarifEkle")]
+    public IActionResult tarifEkle()
+    {
+        return View();
+    }
+
+    
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
