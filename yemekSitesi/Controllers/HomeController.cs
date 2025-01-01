@@ -17,6 +17,12 @@ public class HomeController : Controller
     {
         return View();
     }
+    
+    [Route("/anasayfa")]
+    public IActionResult Anasayfa()
+    {
+        return View();
+    }
 
     [Route("/tarifler")]
     public IActionResult Tarifler()
