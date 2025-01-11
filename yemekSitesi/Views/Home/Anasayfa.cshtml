@@ -1,203 +1,175 @@
-@{
-    ViewData["Title"] = "AnaSayfa";
-}
- <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
-                <a href="" class="navbar-brand p-0">
-                    <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Afiyetle Blog</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                    <span class="fa fa-bars"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0 pe-4">
-                        <a href="/anasayfa" class="nav-item nav-link active">AnaSayfa</a>
-                        <a href="/tarifler" class="nav-item nav-link">Tarifler</a>
-                        <div class="nav-item dropdown">
-                        </div>
-                        <a href="/iletisim" class="nav-item nav-link">İletişim</a>
-                        </div>
-                    <a href="/TarifEkle" class="btn btn-primary py-2 px-4">Tarif Ekle</a>
-                </div>
-            </nav>
+@{ ViewData["Title"] = "AnaSayfa"; }
 
-            <div class="container-xxl py-5 bg-dark hero-header mb-5">
-                <div class="container my-5 py-5">
-                    <div class="row align-items-center g-5">
-                        <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="display-3 text-white animated slideInLeft">"Lezzetli tarifler,<br>mutfakta sihir gibi işler."</h1>
-                            <p class="text-white animated slideInLeft mb-4 pb-2"></p>
-                           <!-- <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Book A Table</a>-->
-                        </div>
-                        <div class="col-lg-6 text-center text-lg-end overflow-hidden">
-                            <img class="img-fluid" src="~/img/hero.png" alt="">
-                        </div>
-                    </div>
+<!-- Navbar & Hero Start -->
+<div class="container-xxl position-relative p-0">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
+        <a href="" class="navbar-brand p-0">
+            <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Afiyetle Blog</h1>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0 pe-4">
+                <a href="/anasayfa" class="nav-item nav-link active">AnaSayfa</a>
+                <a href="/tarifler" class="nav-item nav-link">Tarifler</a>
+                <div class="nav-item dropdown">
+                </div>
+                <a href="/iletisim" class="nav-item nav-link">İletişim</a>
+            </div>
+            <a href="/TarifEkle" class="btn btn-primary py-2 px-4">Tarif Ekle</a>
+        </div>
+    </nav>
+
+    <div class="container-xxl py-5 bg-dark hero-header mb-5">
+        <div class="container my-5 py-5">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-6 text-center text-lg-start">
+                    <h1 class="display-3 text-white animated slideInLeft">"Lezzetli tarifler,<br>mutfakta sihir gibi işler."</h1>
+                </div>
+                <div class="col-lg-6 text-center text-lg-end overflow-hidden">
+                    <img class="img-fluid" src="~/img/hero.png" alt="">
                 </div>
             </div>
         </div>
-        <!-- Navbar & Hero End -->
+    </div>
+</div>
+<!-- Navbar & Hero End -->
+
 <!-- Service Start -->
-        <div class="container-xxl py-5">
-            <div class="container">
-                <div class="row g-4">
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item rounded pt-3">
-                            <div class="p-4">
-                                <i class="fa fa-3x fa-utensil-spoon text-primary mb-4"></i>
-                                <h5>Çorbalar ve Başlangıçlar</h5>
-                                <p>Mercimek çorbası, tarhana, ezogelin gibi başlangıçlar. </p>
-                            </div>
-                        </div>
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-4">
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-utensil-spoon text-primary mb-4"></i>
+                        <h5>Çorbalar ve Başlangıçlar</h5>
+                        <p>Mercimek çorbası, tarhana, ezogelin gibi başlangıçlar.</p>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item rounded pt-3">
-                            <div class="p-4">
-                                <i class="fa fa-3x fa-drumstick-bite text-primary mb-4"></i>
-                                <h5>Ana Yemekler</h5>
-                                <p>Et, tavuk, balık, sebze yemekleri.  </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item rounded pt-3">
-                            <div class="p-4">
-                                <i class="fa fa-3x fa-seedling text-primary mb-4"></i>
-                                <h5>Pilavlar, Makarna ve Yan Yemekler</h5>
-                                <p>Pirinç veya bulgur pilavı, makarna çeşitleri, patates püresi gibi yemekler. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="service-item rounded pt-3">
-                            <div class="p-4">
-                                <i class="fa fa-3x fa-birthday-cake text-primary mb-4"></i>
-                                <h5>Tatlılar ve Pastalar</h5>
-                                <p>Şerbetli tatlılar, sütlü tatlılar, kekler ve kurabiyeler. </p>
-                            </div>
-                        </div>
-                    </div>
-                    
                 </div>
             </div>
-        </div>
-        <!-- Service End -->
-
-
-        <!-- About Start -->
-        <div class="container-xxl py-5">
-            <div class="container">
-                <div class="row g-5 align-items-center">
-                    <div class="col-lg-6">
-                        <div class="row g-3">
-                            <div class="col-6 text-start">
-                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="~/img/about-1.jpg">
-                            </div>
-                            <div class="col-6 text-start">
-                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="~/img/about-2.jpg" style="margin-top: 25%;">
-                            </div>
-                            <div class="col-6 text-end">
-                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="~/img/about-3.jpg">
-                            </div>
-                            <div class="col-6 text-end">
-                                <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="~/img/about-4.jpg">
-                            </div>
-                        </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-drumstick-bite text-primary mb-4"></i>
+                        <h5>Ana Yemekler</h5>
+                        <p>Et, tavuk, balık, sebze yemekleri.</p>
                     </div>
-                    <div class="col-lg-6">
-                        <h5 class="section-title ff-secondary text-start text-primary fw-normal">Hakkımızda</h5>
-                        <h1 class="mb-4">Afiyetle <i class="fa fa-utensils text-primary me-2"></i>Blog</h1>
-                        <p class="mb-4">Merhaba!
-  Yemek yapmayı, tatmayı ve paylaşmayı seven biri olarak bu blogu, lezzetli tariflerle dolu bir mutfak yolculuğu için oluşturduk. Amacımız, hem yeni tatlar keşfetmek hem de mutfakta keyifli vakit geçirmenizi sağlamak.</p>
-                        <p class="mb-4">Burada pratik yemek tariflerinden özel günlere yakışacak şık sunumlara, geleneksel tatlardan dünya mutfaklarına kadar pek çok lezzet bulacaksınız. Her tarif, mutfağın sıcaklığını ve yemeğin birleştirici gücünü yansıtmak için özenle seçildi.
-
-Eğer siz de yeni tarifler denemeyi seviyor, ilham alacak bir şeyler arıyorsanız, doğru yerdesiniz! Çünkü bu blogda her tarif, bir tutam sevgi ve bolca lezzet içeriyor.
-
-Haydi, mutfakta buluşalım!
-Afiyetle kalın!</p>
-                        <div class="row g-4 mb-4">
-                            <div class="col-sm-6">
-                                <div class="d-flex align-items-center border-start border-5 border-primary px-3">
-                                    <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">100</h1>
-                                    <div class="ps-4">
-                                        <p class="mb-0">Aşkın</p>
-                                        <h6 class="text-uppercase mb-0">Kullanıcı</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="d-flex align-items-center border-start border-5 border-primary px-3">
-                                    <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">1000</h1>
-                                    <div class="ps-4">
-                                        <p class="mb-0">Aşkın</p>
-                                        <h6 class="text-uppercase mb-0">Tarif</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                       <!-- <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>-->
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-seedling text-primary mb-4"></i>
+                        <h5>Pilavlar, Makarna ve Yan Yemekler</h5>
+                        <p>Pirinç veya bulgur pilavı, makarna çeşitleri, patates püresi gibi yemekler.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="service-item rounded pt-3">
+                    <div class="p-4">
+                        <i class="fa fa-3x fa-birthday-cake text-primary mb-4"></i>
+                        <h5>Tatlılar ve Pastalar</h5>
+                        <p>Şerbetli tatlılar, sütlü tatlılar, kekler ve kurabiyeler.</p>
                     </div>
                 </div>
             </div>
         </div>
-       
+    </div>
+</div>
+<!-- Service End -->
 
-
-        <!-- Testimonial Start -->
-        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="container">
-                <div class="text-center">
-                    <h5 class="section-title ff-secondary text-center text-primary fw-normal">Blog Hakkında</h5>
-                    <h1 class="mb-5">Yorumlar</h1>
-                </div>
-                <div class="owl-carousel testimonial-carousel">
-                    <div class="testimonial-item bg-transparent border rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Tarifleriniz kadar anlatımınız da çok güzel! Sadece yemek yapmayı değil, mutfakta anı biriktirmeyi de öğretiyorsunuz.</p>
-                        <div class="d-flex align-items-center">
-                            <!--<img class="img-fluid flex-shrink-0 rounded-circle" src="~/img/testimonial-1.jpg" style="width: 50px; height: 50px;">-->
-                            <div class="ps-3">
-                                <h5 class="mb-1">Sude Naz Kol</h5>
-                               <!-- <small>Profession</small>-->
-                            </div>
-                        </div>
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6">
+                <div class="row g-3">
+                    <div class="col-6 text-start">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="~/img/about-1.jpg">
                     </div>
-                    <div class="testimonial-item bg-transparent border rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Her tarif o kadar detaylı ve özenle anlatılmış ki, mutfakta hiç zorlanmadan harikalar yaratabiliyorum. Bu blog tam bir kurtarıcı!</p>
-                        <div class="d-flex align-items-center">
-                           <!-- <img class="img-fluid flex-shrink-0 rounded-circle" src="~/img/testimonial-2.jpg" style="width: 50px; height: 50px;">-->
-                            <div class="ps-3">
-                                <h5 class="mb-1">Sena Bülbül</h5>
-                               <!-- <small>Profession</small>-->
-                            </div>
-                        </div>
+                    <div class="col-6 text-start">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="~/img/about-2.jpg" style="margin-top: 25%;">
                     </div>
-                    <div class="testimonial-item bg-transparent border rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Hem pratik hem de yaratıcı tarifler var! Sayenizde yemek yapmak artık bir keyif hâline geldi. Emeğinize sağlık!</p>
-                        <div class="d-flex align-items-center">
-                           <!-- <img class="img-fluid flex-shrink-0 rounded-circle" src="~/img/testimonial-3.jpg" style="width: 50px; height: 50px;">-->
-                            <div class="ps-3">
-                                <h5 class="mb-1">İlayda Yıldız</h5>
-                               <!-- <small>Profession</small>-->
-                            </div>
-                        </div>
+                    <div class="col-6 text-end">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="~/img/about-3.jpg">
                     </div>
-                    <div class="testimonial-item bg-transparent border rounded p-4">
-                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Bloğunuz sadece tarifler sunmuyor, aynı zamanda ilham veriyor. Her yazıdan sonra hemen mutfağa koşuyorum!</p>
-                        <div class="d-flex align-items-center">
-                           <!-- <img class="img-fluid flex-shrink-0 rounded-circle" src="~/img/testimonial-4.jpg" style="width: 50px; height: 50px;">-->
-                            <div class="ps-3">
-                                <h5 class="mb-1">Mekselina Taşkeser</h5>
-                                <!--<small>Profession</small>-->
-                            </div>
-                        </div>
+                    <div class="col-6 text-end">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="~/img/about-4.jpg">
                     </div>
                 </div>
             </div>
+            <div class="col-lg-6">
+                <h5 class="section-title ff-secondary text-start text-primary fw-normal">Hakkımızda</h5>
+                <h1 class="mb-4">Afiyetle <i class="fa fa-utensils text-primary me-2"></i>Blog</h1>
+                <p class="mb-4">Merhaba! Yemek yapmayı, tatmayı ve paylaşmayı seven biri olarak bu blogu, lezzetli tariflerle dolu bir mutfak yolculuğu için oluşturduk. Amacımız, hem yeni tatlar keşfetmek hem de mutfakta keyifli vakit geçirmenizi sağlamak.</p>
+                <p class="mb-4">Burada pratik yemek tariflerinden özel günlere yakışacak şık sunumlara, geleneksel tatlardan dünya mutfaklarına kadar pek çok lezzet bulacaksınız. Her tarif, mutfağın sıcaklığını ve yemeğin birleştirici gücünü yansıtmak için özenle seçildi. Eğer siz de yeni tarifler denemeyi seviyor, ilham alacak bir şeyler arıyorsanız, doğru yerdesiniz! Çünkü bu blogda her tarif, bir tutam sevgi ve bolca lezzet içeriyor. Haydi, mutfakta buluşalım! Afiyetle kalın!</p>
+                <div class="row g-4 mb-4">
+                    <div class="col-sm-6">
+                        <div class="d-flex align-items-center border-start border-5 border-primary px-3">
+                            <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">100</h1>
+                            <div class="ps-4">
+                                <p class="mb-0">Aşkın</p>
+                                <h6 class="text-uppercase mb-0">Kullanıcı</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="d-flex align-items-center border-start border-5 border-primary px-3">
+                            <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">1000</h1>
+                            <div class="ps-4">
+                                <p class="mb-0">Aşkın</p>
+                                <h6 class="text-uppercase mb-0">Tarif</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>-->
+            </div>
         </div>
-        <!-- Testimonial End -->
+    </div>
+</div>
+<!-- About End -->
+<!-- Testimonial Start -->
+<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="text-center">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Blog Hakkında</h5>
+            <h1 class="mb-5">Yorumlar</h1>
+        </div>
+        <div class="owl-carousel testimonial-carousel">
+            @foreach (var yorum in Model)
+            {
+                <div class="testimonial-item bg-transparent border rounded p-4">
+                    <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                    <p>@yorum.YorumMetni</p>
+                    <div class="d-flex align-items-center">
+                        <div class="ps-3">
+                            <h5 class="mb-1">@yorum.AdSoyad</h5>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Testimonial End -->
+
+
+<div class="container">
+    <div class="form-container">
+        <form action="/Home/YorumEkle" method="post">
+            <div class="mb-3">
+                <label for="name" class="form-label">Adınız</label>
+                <input type="text" class="form-control" id="name" name="adSoyad" required>
+            </div>
+            <div class="mb-3">
+                <label for="comment" class="form-label">Yorumunuz</label>
+                <textarea class="form-control" id="comment" name="yorum" rows="4" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Yorum Gönder</button>
+        </form>
+    </div>
+</div>

@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "tarifEkle";
+    ViewData["Title"] = "Tarif Ekle";
 }
 @{await Html.RenderPartialAsync("_Head");}
 <body>
@@ -11,12 +11,12 @@
             </div>
         </div>
         <!-- Spinner End -->
-         <!-- Navbar & Hero Start -->
+
+        <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Afiyetle Blog</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -24,25 +24,18 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0 pe-4">
                         <a href="/anasayfa" class="nav-item nav-link active">AnaSayfa</a>
-                         <!--<a href="about.html" class="nav-item nav-link">About</a> -->
-                        <!--<a href="service.html" class="nav-item nav-link">Service</a>-->
                         <a href="/tarifler" class="nav-item nav-link">Tarifler</a>
-                        <div class="nav-item dropdown">
-                          
-                        </div>
                         <a href="/iletisim" class="nav-item nav-link">İletişim</a>
-                        </div>
+                    </div>
                     <a href="/TarifEkle" class="btn btn-primary py-2 px-4">Tarif Ekle</a>
                 </div>
-            </nav> <!--üstteki görev çubuğu-->
-
+            </nav>
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
                     <h1 class="display-3 text-white mb-3 animated slideInDown">Tarif Ekle</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
-                            <li class="breadcrumb-item"><a href="#">AnaSayfa</a></li>
-                            
+                            <li class="breadcrumb-item"><a href="/anasayfa">AnaSayfa</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Tarif Ekle</li>
                         </ol>
                     </nav>
@@ -51,55 +44,57 @@
         </div>
         <!-- Navbar & Hero End -->
 
-            <!-- Menu Start -->
- <div class="container-xxl py-5">
-    <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
-            <h1 class="mb-5">Yeni Tarif Ekle</h1>
-        </div>
-
         <!-- Tarif Ekleme Formu -->
-        <form action="#" method="POST">
-            <div class="row">
-                <!-- Yemek İsmi -->
-                <div class="col-md-12 mb-4">
-                    <label for="title" class="form-label">Yemek İsmi</label>
-                    <input type="text" class="form-control" id="title" name="title" required placeholder="Yemek ismi...">
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
+                    <h1 class="mb-5">Yeni Tarif Ekle</h1>
                 </div>
+                <form asp-action="tarifEkle" method="post" enctype="multipart/form-data">
+                    <div class="row">
+                        <!-- Yemek İsmi -->
+                        <div class="col-md-12 mb-4">
+                            <label for="YemekAdi" class="form-label">Yemek İsmi</label>
+                            <input type="text" class="form-control" id="YemekAdi" name="YemekAdi" required placeholder="Yemek ismi...">
+                        </div>
 
-                <!-- Kategori Seçimi -->
-                <div class="col-md-12 mb-4">
-                    <label for="category" class="form-label">Kategori</label>
-                    <select class="form-select" id="category" name="category" required>
-                        <option value="corbalar-ve-baslangiclar">Çorbalar ve Başlangıçlar</option>
-                        <option value="ana-yemekler">Ana Yemekler</option>
-                        <option value="pilavlar-makarna-ve-yan-yemekler">Pilavlar, Makarna ve Yan Yemekler</option>
-                        <option value="tatlilar-ve-pastalar">Tatlılar ve Pastalar</option>
-                        
-                    </select>
-                </div>
+                        <!-- Kategori -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Kategori" class="form-label">Kategori</label>
+                            <select class="form-select" id="Kategori" name="Kategori" required>
+                                <option value="corbalar-ve-baslangiclar">Çorbalar ve Başlangıçlar</option>
+                                <option value="ana-yemekler">Ana Yemekler</option>
+                                <option value="pilavlar-makarna-ve-yan-yemekler">Pilavlar, Makarna ve Yan Yemekler</option>
+                                <option value="tatlilar-ve-pastalar">Tatlılar ve Pastalar</option>
+                            </select>
+                        </div>
 
-                <!-- Malzemeler -->
-                <div class="col-md-12 mb-4">
-                    <label for="ingredients" class="form-label">Malzemeler</label>
-                    <textarea class="form-control" id="ingredients" name="ingredients" rows="5" placeholder="Malzemeleri aralarına virgül koyarak yazın..." required></textarea>
-                </div>
+                        <!-- Malzemeler -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Malzemeler" class="form-label">Malzemeler</label>
+                            <textarea class="form-control" id="Malzemeler" name="Malzemeler" rows="5" placeholder="Malzemeleri aralarına virgül koyarak yazın..." required></textarea>
+                        </div>
 
-                <!-- Açıklama -->
-                <div class="col-md-12 mb-4">
-                    <label for="instructions" class="form-label">Yapılışı</label>
-                    <textarea class="form-control" id="instructions" name="instructions" rows="6" placeholder="Yapılış açıklamasını yazın..." required></textarea>
-                </div>
+                        <!-- Yapılışı -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Talimatlar" class="form-label">Yapılışı</label>
+                            <textarea class="form-control" id="Talimatlar" name="Talimatlar" rows="6" placeholder="Yapılış açıklamasını yazın..." required></textarea>
+                        </div>
 
-                <!-- Gönder Butonu -->
-                <div class="col-md-12 text-center">
-                    <button type="submit" class="btn btn-primary"> Kaydet</button>
-                </div>
+                        <!-- Tarif Resmi -->
+                        <div class="col-md-12 mb-4">
+                            <label for="TarifResim" class="form-label">Tarif Görseli</label>
+                            <input type="file" class="form-control" id="TarifResim" name="TarifResim" accept="image/*" />
+                        </div>
+
+                        <!-- Kaydet Butonu -->
+                        <div class="col-md-12 text-center">
+                            <button type="submit" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
             </div>
-        </form>
+        </div>
     </div>
-</div>
-<!-- Menu End -->
-
 </body>

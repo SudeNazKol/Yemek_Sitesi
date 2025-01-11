@@ -1,7 +1,8 @@
-﻿@{
+﻿@model IEnumerable<YemekBlog.Models.Tarif>
+@{
     ViewData["Title"] = "Tarifler";
 }
-@{await Html.RenderPartialAsync("_Head");}
+@{ await Html.RenderPartialAsync("_Head"); }
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
@@ -12,36 +13,31 @@
         </div>
         <!-- Spinner End -->
 
-
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Afiyetle Blog</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0 pe-4">
-                        <a href="/anasayfa" class="nav-item nav-link active">AnaSayfa</a>
-                        <a href="/tarifler" class="nav-item nav-link">Tarifler</a>
-                        <div class="nav-item dropdown">
-                        </div>
+                        <a href="/anasayfa" class="nav-item nav-link">AnaSayfa</a>
+                        <a href="/tarifler" class="nav-item nav-link active">Tarifler</a>
                         <a href="/iletisim" class="nav-item nav-link">İletişim</a>
-                        </div>
+                    </div>
                     <a href="/TarifEkle" class="btn btn-primary py-2 px-4">Tarif Ekle</a>
                 </div>
-            </nav> <!--üstteki görev çubuğu-->
+            </nav>
 
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container text-center my-5 pt-5 pb-4">
                     <h1 class="display-3 text-white mb-3 animated slideInDown">Tarifler</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb justify-content-center text-uppercase">
-                            <li class="breadcrumb-item"><a href="#">AnaSayfa</a></li>
-                            
+                            <li class="breadcrumb-item"><a href="/anasayfa">AnaSayfa</a></li>
                             <li class="breadcrumb-item text-white active" aria-current="page">Tarifler</li>
                         </ol>
                     </nav>
@@ -50,71 +46,82 @@
         </div>
         <!-- Navbar & Hero End -->
 
-
         <!-- Menu Start -->
         <div class="container-xxl py-5">
-    <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
-            <h1 class="mb-5">Tarifler</h1>
-        </div>
-        <div class="tab-class wow fadeInUp" data-wow-delay="0.1s">
-            <div class="tab-content">
-                <div id="tab-1" class="tab-pane fade show p-0 active">
-                    <div class="row g-4">
-                        <!-- İlk Tarif -->
-                        <div class="col-lg-12">
-                            <div class="d-flex align-items-start p-4 border rounded">
-                                <img class="flex-shrink-0 img-fluid rounded" src="img/menu-1.jpg" alt="Tarif Görseli" style="width: 150px; height: auto;">
-                                <div class="w-100 ps-4">
-                                    <h3 class="d-flex justify-content-between border-bottom pb-3">
-                                        <span>Chicken Burger</span>
-                                        
-                                    </h3>
-                                    <h5>Malzemeler:</h5>
-                                    <ul>
-                                        <li>2 adet tavuk göğsü</li>
-                                        <li>1 su bardağı galeta unu</li>
-                                        <li>2 adet yumurta</li>
-                                        <li>1 tatlı kaşığı tuz</li>
-                                        <li>1 çay kaşığı karabiber</li>
-                                    </ul>
-                                    <h5>Yapılışı:</h5>
-                                    <p>
-                                        Tavuk göğsünü ince dilimler halinde kesin. Yumurtaları bir kapta çırpın. Tavuk dilimlerini önce yumurtaya, ardından galeta ununa bulayın. Kızgın yağda altın sarısı renk alana kadar kızartın. Burger ekmekleriyle servis edin.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- İkinci Tarif -->
-                        <div class="col-lg-12">
-                            <div class="d-flex align-items-start p-4 border rounded">
-                                <img class="flex-shrink-0 img-fluid rounded" src="img/menu-2.jpg" alt="Tarif Görseli" style="width: 150px; height: auto;">
-                                <div class="w-100 ps-4">
-                                    <h3 class="d-flex justify-content-between border-bottom pb-3">
-                                        <span>Vegetable Pizza</span>
-                                        
-                                    </h3>
-                                    <h5>Malzemeler:</h5>
-                                    <ul>
-                                        <li>1 adet hazır pizza tabanı</li>
-                                        <li>1 su bardağı rendelenmiş mozzarella</li>
-                                        <li>1 adet yeşil biber</li>
-                                        <li>1 adet domates</li>
-                                        <li>1 çay kaşığı kekik</li>
-                                    </ul>
-                                    <h5>Yapılışı:</h5>
-                                    <p>
-                                        Pizza tabanına domates sosu sürün. Rendelenmiş mozzarella peynirini yayın. Üzerine doğranmış sebzeleri ekleyin ve kekiği serpiştirin. Önceden ısıtılmış 200°C fırında 15 dakika pişirin.
-                                    </p>
-                                </div>
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
+                    <h1 class="mb-5">Tarifler</h1>
+                </div>
+                <div class="tab-class wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="tab-content">
+                        <div id="tab-1" class="tab-pane fade show p-0 active">
+                            <div class="row g-4">
+                                @if (Model != null && Model.Any())
+                                {
+                                    foreach (var tarif in Model)
+                                    {
+                                        <div class="col-lg-12">
+                                            <div class="d-flex align-items-center p-4 border rounded">
+                                                <!-- Resim yolunun kontrolü -->
+                                                <img class="flex-shrink-0 img-fluid rounded" 
+                                                     src="@Url.Content(tarif.ResimPath ?? "/images/default.jpg")" 
+                                                     alt="@tarif.YemekAdi" 
+                                                     style="width: 150px; height: auto;">
+                                                <div class="w-100 ps-4">
+                                                    <h3 class="d-flex justify-content-between align-items-center border-bottom pb-3">
+                                                        <span>@tarif.YemekAdi</span>
+                                                        <span>
+                                                            <a href="/Tarif/Düzenle=@tarif.Id" class="btn btn-warning btn-sm me-2">Düzenle</a>
+                                                            <button class="btn btn-danger btn-sm" 
+                                                                    onclick="deleteTarif(@tarif.Id)">
+                                                                Sil
+                                                            </button>
+                                                        </span>
+                                                    </h3>
+                                                    <h5>Malzemeler:</h5>
+                                                    <ul>
+                                                        @foreach (var malzeme in tarif.Malzemeler.Split(';'))
+                                                        {
+                                                            <li>@malzeme</li>
+                                                        }
+                                                    </ul>
+                                                    <h5>Yapılışı:</h5>
+                                                    <p>@tarif.Talimatlar</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <p class="text-center">Henüz tarif eklenmemiş.</p>
+                                }
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- Menu End -->
     </div>
- </div>
-    
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function deleteTarif(id) {
+            if (confirm("Bu tarifi silmek istediğinizden emin misiniz?")) {
+                $.ajax({
+                    url: '/Tarifler/Sil/' + id,
+                    type: 'POST',
+                    success: function (result) {
+                        location.reload();
+                    },
+                    error: function (xhr, status, error) {
+                        alert("Silme işlemi sırasında bir hata oluştu.");
+                    }
+                });
+            }
+        }
+    </script>
 </body>
+
