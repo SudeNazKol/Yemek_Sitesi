@@ -212,5 +212,37 @@ namespace yemekSitesi.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult TarifDüzenle(int id)
+        {
+            var tarif = _context.Tarifler.FirstOrDefault(t => t.Id == id);
+            if (tarif == null)
+            {
+                return NotFound(); // Tarif bulunamazsa 404 döndür
+            }
+
+            return View(tarif); // Tarif bilgilerini view'e gönder
+        }
+
+        [HttpPost]
+        public IActionResult TarifDüzenle(Tarif model)
+        {
+            if (ModelState.IsValid)
+            {
+                var tarif = _context.Tarifler.FirstOrDefault(t => t.Id == model.Id);
+                if (tarif != null)
+                {
+                    tarif.YemekAdi = model.YemekAdi;
+                    tarif.Malzemeler = model.Malzemeler;
+                    tarif.Talimatlar = model.Talimatlar;
+                    tarif.ResimPath = model.ResimPath;
+
+                    _context.SaveChanges(); // Değişiklikleri kaydet
+                    return RedirectToAction("Index", "Tarifler"); // Tarifler sayfasına yönlendir
+                }
+            }
+
+            return View(model); // Model valid değilse aynı sayfayı göster
+        }
     }
 }

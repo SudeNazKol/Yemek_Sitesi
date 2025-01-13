@@ -1,0 +1,103 @@
+@model YemekBlog.Models.Tarif
+
+@{
+    ViewData["Title"] = "Tarif Düzenle";
+}
+@{await Html.RenderPartialAsync("_Head");}
+<body>
+    <div class="container-xxl bg-white p-0">
+        <!-- Spinner Start -->
+        <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <!-- Spinner End -->
+
+        <!-- Navbar & Hero Start -->
+        <div class="container-xxl position-relative p-0">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
+                <a href="" class="navbar-brand p-0">
+                    <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Afiyetle Blog</h1>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto py-0 pe-4">
+                        <a href="/anasayfa" class="nav-item nav-link">AnaSayfa</a>
+                        <a href="/tarifler" class="nav-item nav-link">Tarifler</a>
+                        <a href="/iletisim" class="nav-item nav-link">İletişim</a>
+                    </div>
+                    <a href="/TarifEkle" class="btn btn-primary py-2 px-4">Tarif Ekle</a>
+                </div>
+            </nav>
+            <div class="container-xxl py-5 bg-dark hero-header mb-5">
+                <div class="container text-center my-5 pt-5 pb-4">
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Tarif Düzenle</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center text-uppercase">
+                            <li class="breadcrumb-item"><a href="/anasayfa">AnaSayfa</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Tarif Düzenle</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!-- Navbar & Hero End -->
+
+        <!-- Tarif Düzenleme Formu -->
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
+                    <h1 class="mb-5">Tarif Düzenle</h1>
+                </div>
+                <form asp-action="TarifDüzenle" method="post" enctype="multipart/form-data">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="row">
+                        <!-- Yemek İsmi -->
+                        <div class="col-md-12 mb-4">
+                            <label for="YemekAdi" class="form-label">Yemek İsmi</label>
+                            <input asp-for="YemekAdi" class="form-control" id="YemekAdi" required placeholder="Yemek ismi..." />
+                        </div>
+
+                        <!-- Kategori -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Kategori" class="form-label">Kategori</label>
+                            <select asp-for="Kategori" class="form-select" id="Kategori" required>
+                                <option value="corbalar-ve-baslangiclar">Çorbalar ve Başlangıçlar</option>
+                                <option value="ana-yemekler">Ana Yemekler</option>
+                                <option value="pilavlar-makarna-ve-yan-yemekler">Pilavlar, Makarna ve Yan Yemekler</option>
+                                <option value="tatlilar-ve-pastalar">Tatlılar ve Pastalar</option>
+                            </select>
+                        </div>
+
+                        <!-- Malzemeler -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Malzemeler" class="form-label">Malzemeler</label>
+                            <textarea asp-for="Malzemeler" class="form-control" id="Malzemeler" rows="5" placeholder="Malzemeleri aralarına virgül koyarak yazın..." required></textarea>
+                        </div>
+
+                        <!-- Yapılışı -->
+                        <div class="col-md-12 mb-4">
+                            <label for="Talimatlar" class="form-label">Yapılışı</label>
+                            <textarea asp-for="Talimatlar" class="form-control" id="Talimatlar" rows="6" placeholder="Yapılış açıklamasını yazın..." required></textarea>
+                        </div>
+
+                        <!-- Tarif Resmi -->
+                        <div class="col-md-12 mb-4">
+                            <label for="ResimPath" class="form-label">Tarif Görseli</label>
+                            <input asp-for="ResimPath" class="form-control" id="ResimPath" placeholder="Resim yolu..." />
+                        </div>
+
+                        <!-- Kaydet Butonu -->
+                        <div class="col-md-12 text-center">
+                            <button type="submit" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>

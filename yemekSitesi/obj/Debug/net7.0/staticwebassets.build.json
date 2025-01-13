@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M1XC1n6X8o0kKEBs57fxhelG4LT0sRDKgcYMnL0IYYg=",
+  "Hash": "rGZwHlL45RFcgtHneKWJ/2gv04rGszKV6yDF4st4DRc=",
   "Source": "yemekSitesi",
   "BasePath": "_content/yemekSitesi",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\yemekSitesi.styles.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\yemekSitesi.styles.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/yemekSitesi",
       "RelativePath": "yemekSitesi.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\yemekSitesi.styles.css"
+      "OriginalItemSpec": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\bundle\\yemekSitesi.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/yemekSitesi",
       "RelativePath": "yemekSitesi.bundle.scp.css",
       "AssetKind": "All",
@@ -52,10 +52,10 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\about.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\about.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\about.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\booking.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\booking.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\booking.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\contact.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\contact.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\contact.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\style.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\style.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\mercimek.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\mercimek.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\images\\mercimek.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-1.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-1.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\img\\about-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-2.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-2.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\img\\about-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\img\\about-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-4.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-4.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\img\\about-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\bg-hero.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\bg-hero.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-hero.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\favicon.ico",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\favicon.ico",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\hero.png",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\hero.png",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\img\\hero.png"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-1.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-1.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-2.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-2.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-4.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-4.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-5.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-5.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-6.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-6.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-7.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-7.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-8.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-8.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\img\\menu-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-1.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-1.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-2.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-2.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-4.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-4.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\img\\video.jpg"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\index.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\index.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1157,7 +1157,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1176,7 +1176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1195,7 +1195,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1214,7 +1214,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1233,7 +1233,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1252,7 +1252,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1271,7 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1290,7 +1290,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1309,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1328,7 +1328,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1347,7 +1347,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1366,7 +1366,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1385,7 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1404,7 +1404,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1423,7 +1423,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1442,7 +1442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1461,7 +1461,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1480,7 +1480,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1499,7 +1499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1518,7 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1537,7 +1537,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1556,7 +1556,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1575,7 +1575,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1594,7 +1594,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1613,7 +1613,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1632,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1651,7 +1651,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1670,7 +1670,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1689,7 +1689,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1708,7 +1708,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1727,7 +1727,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1746,7 +1746,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1765,7 +1765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1784,7 +1784,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1803,7 +1803,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1822,7 +1822,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1841,7 +1841,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1860,7 +1860,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1879,7 +1879,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1898,7 +1898,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1917,7 +1917,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1936,7 +1936,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1955,7 +1955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1974,7 +1974,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -1993,7 +1993,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2012,7 +2012,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2031,7 +2031,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2050,7 +2050,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2069,7 +2069,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2088,7 +2088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2107,7 +2107,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2126,7 +2126,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2145,7 +2145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2164,7 +2164,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2183,7 +2183,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2202,7 +2202,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2221,7 +2221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2240,7 +2240,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2259,7 +2259,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2278,7 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2297,7 +2297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2316,7 +2316,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2335,7 +2335,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2354,7 +2354,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2373,7 +2373,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2392,7 +2392,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2411,7 +2411,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2430,7 +2430,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2449,7 +2449,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2468,7 +2468,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2487,7 +2487,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2506,7 +2506,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2525,7 +2525,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2544,7 +2544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2563,7 +2563,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2582,7 +2582,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2601,7 +2601,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2620,7 +2620,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\menu.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\menu.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2639,7 +2639,7 @@
       "OriginalItemSpec": "wwwroot\\menu.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\service.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\service.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2658,7 +2658,7 @@
       "OriginalItemSpec": "wwwroot\\service.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\team.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\team.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",
@@ -2677,7 +2677,7 @@
       "OriginalItemSpec": "wwwroot\\team.html"
     },
     {
-      "Identity": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\testimonial.html",
+      "Identity": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\testimonial.html",
       "SourceId": "yemekSitesi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\",

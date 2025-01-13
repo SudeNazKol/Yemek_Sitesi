@@ -1,8 +1,10 @@
 ﻿@model IEnumerable<YemekBlog.Models.Tarif>
+
 @{
     ViewData["Title"] = "Tarifler";
 }
 @{ await Html.RenderPartialAsync("_Head"); }
+
 <body>
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
@@ -53,17 +55,35 @@
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Afiyetle Blog</h5>
                     <h1 class="mb-5">Tarifler</h1>
                 </div>
+
+                <!-- Filtreleme ve Arama Alanı -->
+                <div class="mb-5">
+                    <div class="row">
+                        <div class="col-md-6 mb-2">
+                            <select id="kategoriFiltre" class="form-select form-select-sm">
+                                <option value="">Tüm Kategoriler</option>
+                                <option value="Çorbalar ve Başlangıçlar">Çorbalar ve Başlangıçlar</option>
+                                <option value="Ana Yemekler">Ana Yemekler</option>
+                                <option value="Pilavlar, Makarna ve Yan Yemekler">Pilavlar, Makarna ve Yan Yemekler</option>
+                                <option value="Tatlılar ve Pastalar">Tatlılar ve Pastalar</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <input type="text" id="tarifArama" class="form-control form-control-sm" placeholder="Tarif adı arayın...">
+                        </div>
+                    </div>
+                </div>
+
                 <div class="tab-class wow fadeInUp" data-wow-delay="0.1s">
                     <div class="tab-content">
                         <div id="tab-1" class="tab-pane fade show p-0 active">
-                            <div class="row g-4">
+                            <div class="row g-4" id="tarifListesi">
                                 @if (Model != null && Model.Any())
                                 {
                                     foreach (var tarif in Model)
                                     {
-                                        <div class="col-lg-12">
+                                        <div class="col-lg-12" data-kategori="@tarif.Kategori" data-tarif="@tarif.YemekAdi.ToLower()">
                                             <div class="d-flex align-items-center p-4 border rounded">
-                                                <!-- Resim yolunun kontrolü -->
                                                 <img class="flex-shrink-0 img-fluid rounded" 
                                                      src="@Url.Content(tarif.ResimPath ?? "/images/default.jpg")" 
                                                      alt="@tarif.YemekAdi" 
@@ -72,11 +92,8 @@
                                                     <h3 class="d-flex justify-content-between align-items-center border-bottom pb-3">
                                                         <span>@tarif.YemekAdi</span>
                                                         <span>
-                                                            <a href="/Tarif/Düzenle=@tarif.Id" class="btn btn-warning btn-sm me-2">Düzenle</a>
-                                                            <button class="btn btn-danger btn-sm" 
-                                                                    onclick="deleteTarif(@tarif.Id)">
-                                                                Sil
-                                                            </button>
+                                                            <a href="/Home/TarifDüzenle/@tarif.Id" class="btn btn-warning btn-sm me-2">Düzenle</a>
+                                                            <button class="btn btn-danger btn-sm" onclick="deleteTarif(@tarif.Id)">Sil</button>
                                                         </span>
                                                     </h3>
                                                     <h5>Malzemeler:</h5>
@@ -108,6 +125,29 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
+        // Filtreleme ve Arama İşlemi
+        $(document).ready(function () {
+            function filtrele() {
+                var selectedKategori = $('#kategoriFiltre').val().toLowerCase();
+                var aramaMetni = $('#tarifArama').val().toLowerCase();
+
+                $('#tarifListesi > div').each(function () {
+                    var kategori = $(this).data('kategori').toLowerCase();
+                    var tarifAdi = $(this).data('tarif');
+
+                    if ((selectedKategori === "" || kategori === selectedKategori) &&
+                        (aramaMetni === "" || tarifAdi.includes(aramaMetni))) {
+                        $(this).show();
+                    } else {
+                        $(this).hide();
+                    }
+                });
+            }
+
+            $('#kategoriFiltre').change(filtrele);
+            $('#tarifArama').keyup(filtrele);
+        });
+
         function deleteTarif(id) {
             if (confirm("Bu tarifi silmek istediğinizden emin misiniz?")) {
                 $.ajax({
@@ -124,4 +164,5 @@
         }
     </script>
 </body>
+
 

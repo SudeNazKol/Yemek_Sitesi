@@ -1,563 +1,563 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\yemekSitesi.bundle.scp.css",
       "PackagePath": "staticwebassets\\yemekSitesi.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\about.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\about.html",
       "PackagePath": "staticwebassets\\about.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\booking.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\booking.html",
       "PackagePath": "staticwebassets\\booking.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\contact.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\style.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg",
       "PackagePath": "staticwebassets\\images\\29d38a19-eb69-4c43-8d25-89c99196858c.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg",
       "PackagePath": "staticwebassets\\images\\48c332c0-c14e-429d-8da2-54fc58b9756d.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg",
       "PackagePath": "staticwebassets\\images\\543408bf-b10f-4a4a-871e-0d1bb2930ce5.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg",
       "PackagePath": "staticwebassets\\images\\5ad9f341-ad7e-4b8b-9d52-2eaf14c3a074.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg",
       "PackagePath": "staticwebassets\\images\\601d2cd1-e843-4d88-89b0-a74866884a36.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg",
       "PackagePath": "staticwebassets\\images\\6a113468-dd40-4854-a47d-ec330f141a27.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg",
       "PackagePath": "staticwebassets\\images\\6ce755f4-793a-4f0c-a3ad-9dc4d5ed1376.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg",
       "PackagePath": "staticwebassets\\images\\76a7eff8-d2e2-47f7-9c69-da72b2cd86c3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg",
       "PackagePath": "staticwebassets\\images\\9cb56fb0-e608-4c1b-b809-d6eae41fc377.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg",
       "PackagePath": "staticwebassets\\images\\b48a7522-d16c-4cf0-a7fb-df3bfe34654b.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg",
       "PackagePath": "staticwebassets\\images\\b5fc444e-35fa-4ea7-9728-e0c8cf6f8282.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg",
       "PackagePath": "staticwebassets\\images\\b6252174-49bb-4f51-bea1-a884c90898f3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg",
       "PackagePath": "staticwebassets\\images\\b6c0b117-01ac-4203-b43e-3cf62abd3e73.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg",
       "PackagePath": "staticwebassets\\images\\bcc20d8e-0d7c-4ebe-9813-3e6479bb6fe2.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg",
       "PackagePath": "staticwebassets\\images\\c6f7d94f-8cf6-4b55-953e-c9bb7bf237a9.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg",
       "PackagePath": "staticwebassets\\images\\c7e31001-35a6-4ee5-a9d4-876cf50e110b.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg",
       "PackagePath": "staticwebassets\\images\\ccbba5f8-2bf1-4b47-8661-93c15e2faa26.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg",
       "PackagePath": "staticwebassets\\images\\cff2fdc5-76e3-402f-b449-fda96b303c08.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg",
       "PackagePath": "staticwebassets\\images\\d3d82a00-5b7f-4f8b-958c-c5ae9ef783d8.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg",
       "PackagePath": "staticwebassets\\images\\fbea89cc-e052-484f-abdc-da9c28dffd2a.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\mercimek.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\images\\mercimek.jpg",
       "PackagePath": "staticwebassets\\images\\mercimek.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-1.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-1.jpg",
       "PackagePath": "staticwebassets\\img\\about-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-2.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-2.jpg",
       "PackagePath": "staticwebassets\\img\\about-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-3.jpg",
       "PackagePath": "staticwebassets\\img\\about-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-4.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\about-4.jpg",
       "PackagePath": "staticwebassets\\img\\about-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\bg-hero.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\bg-hero.jpg",
       "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\favicon.ico",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\hero.png",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\hero.png",
       "PackagePath": "staticwebassets\\img\\hero.png"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-1.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-1.jpg",
       "PackagePath": "staticwebassets\\img\\menu-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-2.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-2.jpg",
       "PackagePath": "staticwebassets\\img\\menu-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-3.jpg",
       "PackagePath": "staticwebassets\\img\\menu-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-4.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-4.jpg",
       "PackagePath": "staticwebassets\\img\\menu-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-5.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-5.jpg",
       "PackagePath": "staticwebassets\\img\\menu-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-6.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-6.jpg",
       "PackagePath": "staticwebassets\\img\\menu-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-7.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-7.jpg",
       "PackagePath": "staticwebassets\\img\\menu-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-8.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\menu-8.jpg",
       "PackagePath": "staticwebassets\\img\\menu-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-1.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-2.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-4.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-2.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-3.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-4.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\img\\video.jpg",
       "PackagePath": "staticwebassets\\img\\video.jpg"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\index.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\counterup\\counterup.min.js",
       "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.min.js",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\menu.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\menu.html",
       "PackagePath": "staticwebassets\\menu.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\service.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\service.html",
       "PackagePath": "staticwebassets\\service.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\team.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\team.html",
       "PackagePath": "staticwebassets\\team.html"
     },
     {
-      "Id": "C:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\testimonial.html",
+      "Id": "c:\\Users\\ilayd\\OneDrive\\Belgeler\\GitHub\\Yemek_Sitesi\\yemekSitesi\\wwwroot\\testimonial.html",
       "PackagePath": "staticwebassets\\testimonial.html"
     },
     {
