@@ -1,7 +1,7 @@
-# Afiyet Blog
+# Afiyetle Blog
 
 ## Amaç
-Afiyet Blog, kullanıcıların yemek tariflerini paylaşmalarına, düzenlemelerine ve tariflerine fotoğraf eklemelerine olanak tanıyan bir web uygulamasıdır. Kullanıcı dostu ve estetik bir arayüze sahip olan bu platform, kullanıcıların tariflerini kolayca yönetmelerini ve diğer kullanıcılarla etkileşimde bulunmalarını sağlar.
+Afiyetle Blog, kullanıcıların yemek tariflerini paylaşmalarına, düzenlemelerine ve tariflerine fotoğraf eklemelerine olanak tanıyan bir web uygulamasıdır. Kullanıcı dostu ve estetik bir arayüze sahip olan bu platform, kullanıcıların tariflerini kolayca yönetmelerini ve diğer kullanıcılarla etkileşimde bulunmalarını sağlar.
 ## Ekip Üyeleri
 - **Sude Naz KOL**: [GitHub Kullanıcı Adı](https://github.com/SudeNazKol)
 -132230031
@@ -11,7 +11,7 @@ Afiyet Blog, kullanıcıların yemek tariflerini paylaşmalarına, düzenlemeler
 -132230062
 
 ## Proje Açıklaması
-Afiyet Blog, kullanıcıların yemek tariflerini paylaşabildiği bir platformdur. Kullanıcılar tariflerini ekleyebilir, düzenleyebilir ve tariflerine fotoğraf ekleyebilirler. Uygulamada kullanıcı girişi zorunludur ve kullanım kolaylığı sağlayan şık bir arayüze sahiptir.
+Afiyetle Blog, kullanıcıların yemek tariflerini paylaşabildiği bir platformdur. Kullanıcılar tariflerini ekleyebilir, düzenleyebilir ve tariflerine fotoğraf ekleyebilirler. Uygulamada kullanıcı girişi zorunludur ve kullanım kolaylığı sağlayan şık bir arayüze sahiptir.
 
 ### Kullanılan Teknolojiler
 - **Programlama Dili**: C#
