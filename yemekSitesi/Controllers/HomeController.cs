@@ -10,6 +10,7 @@ using System;
 using System.Linq;
 using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
+using BCrypt.Net;
 
 namespace yemekSitesi.Controllers
 {
@@ -31,7 +32,81 @@ namespace yemekSitesi.Controllers
             return View();
         }
 
-        // Anasayfa üzerinde yorumları gösterme
+        // Kayıt sayfası - SENA
+        public IActionResult Kayit()
+        {
+            var model = new Kullanici(); 
+            return View(model);
+        }
+
+        // Kayıt işlemi
+        [HttpPost]
+        public IActionResult Kayit(Kullanici model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Şifre hashleme
+                model.Sifre = BCrypt.Net.BCrypt.HashPassword(model.Sifre);
+
+                using (var connection = new SqlConnection(_connectionString))
+                {
+                    string query = "INSERT INTO Kullanici (Email, Sifre) VALUES (@Email, @Sifre)";
+                    var command = new SqlCommand(query, connection);
+                    command.Parameters.AddWithValue("@Email", model.Email);
+                    command.Parameters.AddWithValue("@Sifre", model.Sifre);
+                    connection.Open();
+                    command.ExecuteNonQuery();
+                }
+                return RedirectToAction("Index");
+            }
+            return View(model);
+        }
+
+        // Giriş işlemi - SENA
+        [HttpPost]
+        public IActionResult Login(Kullanici model)
+        {
+            if (ModelState.IsValid)
+            {
+                using (var connection = new SqlConnection(_connectionString))
+                {
+                    string query = "SELECT Sifre FROM Kullanici WHERE Email = @Email";
+                    var command = new SqlCommand(query, connection);
+                    command.Parameters.AddWithValue("@Email", model.Email);
+                    connection.Open();
+
+                    using (var reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            var storedHashedPassword = reader.GetString(0);
+
+                            // Şifre doğrulama
+                            if (BCrypt.Net.BCrypt.Verify(model.Sifre, storedHashedPassword))
+                            {
+                                // Giriş başarılı
+                                return RedirectToAction("Anasayfa");
+                            }
+                            else
+                            {
+                                // Şifre yanlış
+                                ViewBag.ErrorMessage = "Geçersiz giriş denemesi. Şifre yanlış.";
+                                return View("Index", model);
+                            }
+                        }
+                        else
+                        {
+                            // E-posta bulunamadı
+                            ViewBag.ErrorMessage = "Geçersiz giriş denemesi. E-posta adresi bulunamadı.";
+                            return View("Index", model);
+                        }
+                    }
+                }
+            }
+            return View("Index", model);
+        }
+
+        // Anasayfa üzerinde yorumları gösterme - 
         [Route("/Anasayfa")]
         public IActionResult Anasayfa()
         {
@@ -245,4 +320,4 @@ namespace yemekSitesi.Controllers
             return View(model); // Model valid değilse aynı sayfayı göster
         }
     }
-}
+}s

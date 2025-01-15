@@ -9,5 +9,6 @@ namespace YemekBlog.Models // Data yerine Models namespace'i kullanabilirsiniz
 
         public DbSet<Tarif> Tarifler { get; set; }
         public DbSet<Yorum> Yorumlar { get; set; }
+         public DbSet<Kullanici> Kullanicilar { get; set; }
     }
 }

@@ -1,0 +1,44 @@
+@model Kullanici
+
+@{
+    ViewData["Title"] = "Kayit";
+}
+
+<div class="container-xxl py-5 bg-dark hero-header d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="container my-5 py-5 d-flex justify-content-center align-items-center">
+        <form class="p-4 rounded shadow text-center" style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); width: 500px;" action="/Home/Kayit" method="POST">
+            <h2 class="text-white mb-4">Kayıt Ol</h2>
+            <div class="mb-3">
+                <label for="email" class="form-label text-white">E-posta</label>
+                <input type="email" class="form-control" id="email" name="Email" value="@Model.Email" style="height: 50px; font-size: 1.2rem;" placeholder="E-posta adresinizi girin" required />
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label text-white">Şifre</label>
+                <input type="password" class="form-control" id="password" name="Sifre" style="height: 50px; font-size: 1.2rem;" placeholder="Şifrenizi girin" required />
+            </div>
+            <div class="mb-3">
+                <label for="confirmPassword" class="form-label text-white">Şifre Tekrarı</label>
+                <input type="password" class="form-control" id="confirmPassword" style="height: 50px; font-size: 1.2rem;" placeholder="Şifrenizi tekrar girin" required />
+            </div>
+            <button type="submit" class="btn btn-primary py-2 px-4 w-100">Kayıt Ol</button>
+            <div class="mt-3">
+                <a href="/Home/Index" class="text-white">Zaten hesabınız var mı? Giriş Yap</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const form = document.querySelector('form');
+        const password = document.getElementById('password');
+        const confirmPassword = document.getElementById('confirmPassword');
+
+        form.addEventListener('submit', function (event) {
+            if (password.value !== confirmPassword.value) {
+                event.preventDefault();
+                alert('Şifreler eşleşmiyor!');
+            }
+        });
+    });
+</script>
