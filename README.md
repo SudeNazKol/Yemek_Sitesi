@@ -61,7 +61,7 @@ Kullanıcıların iletişim formuna ulaştıkları ekran:
 ![1](https://github.com/user-attachments/assets/704c3282-7c06-4d06-a4a2-d9a8c9ab5a9e)
 
 ## Tanıtım Videosu
-Projenin tanıtım videosunu izlemek için [buraya tıklayın](#).
+Projenin tanıtım videosunu izlemek için [[buraya tıklayın](https://youtu.be/gSP3RnQ9Bvo)](#).
 
 ## Veritabanı Yapısı
 Uygulamada kullanılan veritabanı yapısı:
