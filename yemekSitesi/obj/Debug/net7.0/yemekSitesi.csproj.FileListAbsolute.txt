@@ -105,3 +105,4 @@ C:\Users\ilayd\OneDrive\Belgeler\GitHub\Yemek_Sitesi\yemekSitesi\bin\Debug\net7.
 C:\Users\ilayd\OneDrive\Belgeler\GitHub\Yemek_Sitesi\yemekSitesi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\ilayd\OneDrive\Belgeler\GitHub\Yemek_Sitesi\yemekSitesi\obj\Debug\net7.0\yemekSitesi.csproj.AssemblyReference.cache
 C:\Users\ilayd\OneDrive\Belgeler\GitHub\Yemek_Sitesi\yemekSitesi\obj\Debug\net7.0\yemekSit.BBB8556B.Up2Date
+c:\Users\ilayd\OneDrive\Belgeler\GitHub\Yemek_Sitesi\yemekSitesi\bin\Debug\net7.0\BCrypt.Net-Next.dll

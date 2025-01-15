@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yemekSitesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a28cc3c378949a8549ada92e710671e7a5111b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f951a2b245c351ec6711bd2d731b7dad2faddcf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("yemekSitesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yemekSitesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
